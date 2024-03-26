@@ -19,4 +19,3 @@ Performed the following tasks:
 7. Training may take several hours, so use 5 to 10 epochs only
 
 
-sdfghjk,jdfcghjknbhg

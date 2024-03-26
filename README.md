@@ -17,3 +17,6 @@ Performed the following tasks:
 5. Train a model with VGG19 model
 6. Use callbacks to save your model at every step
 7. Training may take several hours, so use 5 to 10 epochs only
+
+
+sdfghjk,jdfcghjknbhg

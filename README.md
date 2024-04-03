@@ -11,6 +11,8 @@ The Dataset contains images of people wearing masks and people not wearing masks
 Our task is to create a CNN model for identifying whether a person in the image is wearing a mask or not.
 
 
+
+
 ## Steps Performed- 
 Performed the following tasks:
 

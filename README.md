@@ -1,5 +1,9 @@
 ![](https://img.shields.io/badge/python-3.x-blue?logo=python&logoColor=yellow&labelColor=black)
 ![](https://img.shields.io/badge/License-MIT-green?labelColor=black)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pramod2021-24IT/Face-Mask-Detection)
+![GitHub contributors](https://img.shields.io/github/contributors/Pramod2021-24IT/Face-Mask-Detection)
+![GitHub stars](https://img.shields.io/github/stars/Pramod2021-24IT/Face-Mask-Detection?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Pramod2021-24IT/Face-Mask-Detection?style=social)
 -----------------------------------------------------------------------------------------------------------------------
 # Face-Mask-Detection
 

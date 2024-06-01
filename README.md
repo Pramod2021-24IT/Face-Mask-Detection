@@ -19,6 +19,7 @@ Our task is to create a CNN model for identifying whether a person in the image 
 ## Steps Performed- 
 Performed the following tasks:
 
+
 1. Downloaded the database.
 2. Created test, train, and validation directory variables.
 3. Created train and validation data generator with target size (128,128)
